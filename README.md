@@ -12,4 +12,3 @@ Diversos ejemplos en los que podemos ver:
   
 - Comunicación de los hilos mediante los métodos notify() y wait()
 
-Incluyo PDF con un resumen de los puntos más importantes a tener en cuenta.
